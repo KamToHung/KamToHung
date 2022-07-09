@@ -1,5 +1,15 @@
 ### Lesson5 👋
-[![KamToHung's github stats](https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=cobalt&layout=compact&langs_count=8)
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=cobalt"/>
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=cobalt&langs_count=8"/>
+</details>
 
 
 
