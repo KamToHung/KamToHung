@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying and researching about RocketMQ, Netty and Kafka
 - 👯 I’m looking to collaborate on any open source RocketMQ Repo
 - 💬 Ask me about Java
-- 📫 478409784qq@gmail.com
+- 📫 kamtohung@gmail.com
 
 ⭐️ From [KamToHung](https://github.com/KamToHung)
 
