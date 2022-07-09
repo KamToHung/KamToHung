@@ -1,5 +1,15 @@
+![pikachu_github](https://www.blog.ailey.cn/upload/2022/07/pikachu_github-ddc5b5749846451ba4d822eff25f2b94.jpg)
 ### Lesson5 👋
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Go, Java and Kotlin
+- 🌱 I’m currently studying and researching about RocketMQ, Netty and Kafka
+- 👯 I’m looking to collaborate on any open source RocketMQ Repo
+- 💬 Ask me about Java
+- 📫 478409784qq@gmail.com
 
+⭐️ From [KamToHung](https://github.com/KamToHung)
+
+#### Github Stats
 <details open>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
