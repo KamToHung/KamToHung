@@ -1,12 +1,12 @@
 ### Lesson5 👋
 
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
 </details>
 
 
-<details>
+<details open>
   <summary>:zap: Most Used Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=buefy&langs_count=8"/>
 </details>
