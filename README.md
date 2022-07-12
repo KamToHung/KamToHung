@@ -1,6 +1,6 @@
 ![pikachu_github](https://www.blog.ailey.cn/upload/2022/07/pikachu_github-ddc5b5749846451ba4d822eff25f2b94.jpg)
 ### Lesson5 👋
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on E-commerce
 - 🌱 I’m currently learning Go, Java and Kotlin
 - 🌱 I’m currently studying and researching about RocketMQ, Netty and Kafka
 - 👯 I’m looking to collaborate on any open source RocketMQ Repo
