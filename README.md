@@ -15,11 +15,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
 </details>
 
+<details open>
+  <summary>:zap: Most repositories</summary>
+  <a href="https://github.com/KamToHung/leetcode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=leetcode" />
+  </a>
+</details>
 
+<!--
 <details open>
   <summary>:zap: Most Used Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=buefy&langs_count=8"/>
 </details>
+-->
 
 
 
