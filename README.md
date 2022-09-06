@@ -20,6 +20,9 @@
   <a href="https://github.com/KamToHung/leetcode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=leetcode" />
   </a>
+  <a href="https://github.com/KamToHung/kit-test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=kit-test" />
+  </a>
 </details>
 
 <!--
