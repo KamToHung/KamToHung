@@ -9,24 +9,7 @@
 
 ⭐️ From [KamToHung](https://github.com/KamToHung)
 
-#### Github Stats
-<details open>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
-</details>
 
-<details open>
-  <summary>:zap: Most repositories</summary>
-  <a href="https://github.com/KamToHung/kit-test">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=kit-test" />
-  </a>
-</details>
-
-<!--
-<details open>
-  <summary>:zap: Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=buefy&langs_count=8"/>
-</details>
 -->
 
 
