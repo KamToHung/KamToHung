@@ -1,4 +1,4 @@
-![pikachu_github](https://www.blog.ailey.cn/upload/2022/07/pikachu_github-ddc5b5749846451ba4d822eff25f2b94.jpg)
+
 ### Hi,bro 👋
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Go, Java and Kotlin
