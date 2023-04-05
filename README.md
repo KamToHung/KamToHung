@@ -17,12 +17,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
 </details>
 
+<!--
 <details open>
   <summary>:zap: Most repositories</summary>
   <a href="https://github.com/KamToHung/kit-test">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=kit-test" />
   </a>
 </details>
+-->
 
 
 
