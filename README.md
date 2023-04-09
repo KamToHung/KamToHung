@@ -2,7 +2,7 @@
 ### Hi,bro 👋
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Go, Java and Kotlin
-- 🌱 I’m currently studying and researching about Dubbo, Netty, Kafka, RocketMQ and Kafka
+- 🌱 I’m currently studying and researching about Dubbo, Netty, RocketMQ and Kafka
 - 👯 I’m looking to collaborate on any open source RocketMQ Repo
 - 💬 Ask me about Java
 - 📫 kamtohung@gmail.com
