@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Go, Java and Kotlin
 - 🌱 I’m currently studying and researching about Dubbo, Netty, RocketMQ and Kafka
 - 👯 I’m looking to collaborate on any open source RocketMQ Repo
-- 💬 Ask me about Java
-- 📫 kamtohung@gmail.com
+<!-- - 💬 Ask me about Java -->
+- 📫 How to reach me: kamtohung@gmail.com
 
 ⭐️ From [KamToHung](https://github.com/KamToHung)
 
