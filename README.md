@@ -1,6 +1,5 @@
 
 ### Hi,bro 👋
-- 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Go, Java
 - 🌱 I’m currently studying and researching about Dubbo, Netty, RocketMQ and Kafka
 <!-- - 👯 I’m looking to collaborate on any open source RocketMQ Repo -->
