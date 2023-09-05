@@ -1,6 +1,6 @@
 
 ### Hi,bro 👋
-- 🌱 I’m currently learning Go, Java
+- 🌱 I’m currently learning Go, Java and Lua
 - 🌱 I’m currently studying and researching about Dubbo, Netty, RocketMQ and Kafka
 - ✨ I'm focusing on networking framework and distributed related components
 <!-- - 👯 I’m looking to collaborate on any open source RocketMQ Repo -->
