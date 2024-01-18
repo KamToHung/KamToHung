@@ -13,10 +13,7 @@
 
 
 #### Github Stats
-<details open>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
 
 
 <!--
