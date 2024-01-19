@@ -1,5 +1,5 @@
 
-### Hi,bro 👋
+## Hi,bro 👋
 - 🌱 I’m currently learning Go, Java and Lua
 - 🌱 I’m currently studying and researching about Dubbo, Netty, RocketMQ and Kafka
 - ✨ I'm focusing on networking framework and distributed related components
@@ -11,25 +11,9 @@
 ⭐️ From [KamToHung](https://github.com/KamToHung)
 
 
+## Statistics
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy"/>
-
-
-<!--
-<details open>
-  <summary>:zap: Most repositories</summary>
-  <a href="https://github.com/KamToHung/kit-test">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamToHung&repo=kit-test" />
-  </a>
-</details>
--->
-
-
-
-<!--
-<details open>
-  <summary>:zap: Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamToHung&theme=buefy&langs_count=8"/>
-</details>
--->
+<table>
+    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="KamToHung readme card" />
+    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamToHung&layout=compact&langs_count=8&theme=buefy" alt="KamToHung top langs" />
+</table>
