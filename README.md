@@ -13,7 +13,9 @@
 
 ## Statistics
 
-<table>
-    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="KamToHung readme card" />
-    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamToHung&layout=compact&langs_count=8&theme=buefy" alt="KamToHung top langs" />
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamToHung&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="KamToHung readme card" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamToHung&layout=compact&langs_count=8&theme=buefy" alt="KamToHung top langs" />
+</a>
